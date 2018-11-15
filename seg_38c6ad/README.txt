@@ -2,6 +2,7 @@ From: Michal Januszewski <mjanusz@google.com>
 To: Takemura, Shin-ya <takemuras@janelia.hhmi.org>
 Cc: Plaza, Stephen <plazas@janelia.hhmi.org>; Berg, Stuart <bergs@janelia.hhmi.org>; Rivlin, Pat <rivlinp@janelia.hhmi.org>; Viren Jain <viren@google.com>
 Date: Wednesday, October 31, 2018 at 11:24 AM
+Subject: Re: Segmentation and focused proofreading enhancements
 
 Hi everyone,
 
